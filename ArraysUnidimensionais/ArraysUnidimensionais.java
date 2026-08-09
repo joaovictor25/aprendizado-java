@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class ArraysUnidimensionais{
     public static void main(String args[]){
         Scanner Scanner = new Scanner(System.in);
-        double notas[];
-        notas = new double[5];
+        double[] notas = new double[5];
 
         for(int cont = 0; cont < 5; cont++){
             System.out.print("Digite a nota: ");

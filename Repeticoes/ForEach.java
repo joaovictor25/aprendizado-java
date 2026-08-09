@@ -4,7 +4,7 @@ public class ForEach{
     public static void main(String args[]){
         Scanner Scanner = new Scanner(System.in);
         int vet[] = new int[5];
-
+        vet[0] = 4;
         System.out.println("");
 
         for(int elemento: vet){

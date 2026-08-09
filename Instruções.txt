@@ -1,8 +1,0 @@
-Compilação do programa
-javac Hello.java
-
-Maquiva virtual executando
-java hello
-
-Caracteristica da linguagem 
-- Altamente tipada

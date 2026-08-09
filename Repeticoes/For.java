@@ -10,5 +10,6 @@ public class For{
         for(int cont = 1; cont <= 10; cont++){
             System.out.println(teclado+" X "+cont+" = "+ (teclado*cont));
         }
+
     }
-}
+0}
